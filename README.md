@@ -105,7 +105,7 @@ Deployment status: Under development / prototype stage.
 
 ## 👩‍💻 Author
 
-Name: [Your Name]  
+Name: Dasari Sai Manasa Nikhita
 College: Aditya College of Engineering and Technology  
 Department: CSE  
 Program: AICTE – IBM SkillsBuild Internship
